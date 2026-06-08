@@ -62,15 +62,15 @@ Open-source GitHub project with practical SQL examples, structured chapters, and
 ## 📊 Current Focus
 
 - 🎓 **Master's Thesis:** Data Science research focused on analytics and AI applications
-- 🚀 **Career Growth:** Building strong analytical skills and business exposure
-- 💡 **Skill Development:** Strengthening SQL, Python, Power BI, Statistics, and Business Analysis
+- 🚀 **Career Growth:** Transitioning from technical support to analytical & strategic roles
+- 💡 **Skill Development:** Improving SQL, Python, Power BI, Statistics, and Business Analysis
 - 🌍 **English:** B1 level (Reading & Listening: 7/10 | Writing & Speaking: 3/10)
 
 ---
 
 ## 🎯 Career Vision
 
-Become a **business-oriented technology leader** who helps organizations:
+Become a **business-oriented AI leader** who helps organizations:
 - Adopt AI effectively
 - Optimize operations
 - Build data-driven products
