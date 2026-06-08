@@ -13,97 +13,44 @@ Computer Engineer with a **Master's in Data Science** (Cairo University, 2025–
 - **Machine Learning & AI** — Predictive models, AI automation, Custom GPTs
 - **SaaS & Business Solutions** — Technical support, business analysis, product thinking
 
-Currently **actively job-seeking** for roles in:
-- 📊 Data Analyst / BI Analyst
-- 📈 Business Analyst / Product Analyst
-- 🤖 AI Specialist / Solution Consultant
-
----
-
-## 🎯 Featured Projects
-
-### 🎓 Career Intelligence System
-A personal SaaS-style career dashboard combining application tracking, skill-gap analysis, target-company strategy, and AI-powered job scoring.
-- **Tech:** HTML, CSS, JavaScript, GitHub Pages, Python
-- **Features:** Dark-mode dashboard, skill visualization, application pipeline, executive reporting
-- **Live:** [m-abbas-el-sharif.github.io](https://m-abbas-el-sharif.github.io/)
-- **Repo:** [Career-Intelligence-System](https://github.com/M-Abbas-El-Sharif/Career-Intelligence-System)
-
-### 📉 Customer Churn Prediction
-Machine Learning project predicting telecom customer churn using Logistic Regression, Random Forest & XGBoost with an interactive Streamlit dashboard.
-- **Tech:** Python, scikit-learn, XGBoost, Streamlit, SHAP, pandas
-- **Dataset:** 7,043 telecom customers, 20+ features
-- **Models:** 3 classification algorithms with comparison metrics (accuracy, precision, recall, F1)
-- **Repo:** [Customer-Churn-Prediction](https://github.com/M-Abbas-El-Sharif/Customer-Churn-Prediction)
-
-### 📚 SQL Mastery
-Open-source GitHub project with practical SQL examples, structured chapters, and a complete SQL cheat sheet for Arabic speakers.
-- **Tech:** SQL, Documentation, Open Source
-- **Repo:** [sql-mastery](https://github.com/M-Abbas-El-Sharif/sql-mastery)
-
----
-
-## 🛠️ Tech Stack
-
-**Data & Analytics:**
-- `SQL Server` | `Python (Pandas, NumPy, Scikit-Learn)` | `Power BI` | `Excel`
-
-**AI & Machine Learning:**
-- `TensorFlow` | `XGBoost` | `Custom GPTs` | `LLMs` | `Prompt Engineering`
-
-**Web & Visualization:**
-- `Streamlit` | `HTML/CSS/JavaScript` | `GitHub Pages` | `Plotly`
-
-**Business Tools:**
-- `Jira` | `Notion` | `Google Sheets` | `Figma`
-
 ---
 
 ## 📊 Current Focus
 
 - 🎓 **Master's Thesis:** Data Science research focused on analytics and AI applications
-- 🚀 **Career Growth:** Transitioning from technical support to analytical & strategic roles
-- 💡 **Skill Development:** Improving SQL, Python, Power BI, Statistics, and Business Analysis
-- 🌍 **English:** B1 level (Reading & Listening: 7/10 | Writing & Speaking: 3/10)
+- 🚀 **Career Growth:** Building strong analytical skills and business exposure
+- 💡 **Skill Development:** SQL, Python, Power BI, Statistics, and Business Analysis
 
 ---
 
 ## 🎯 Career Vision
 
-Become a **business-oriented AI leader** who helps organizations:
-- Adopt AI effectively
-- Optimize operations
-- Build data-driven products
-- Make smarter technology decisions
-
-**Target Path:**
-```
-Data/BI Analyst → Business Analyst → Product Analyst → Solution Consultant → AI Consultant
-```
+Become a **business-oriented AI leader** who helps organizations adopt AI, optimize operations, and make data-driven decisions.
 
 ---
 
-## 📈 GitHub Stats
+## 🔗 Portfolio & Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Abbas-El-Sharif&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abbas-El-Sharif&layout=compact&theme=dark)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 **LinkedIn:** [m-abbas-el-sharif](https://www.linkedin.com/in/m-abbas-el-sharif/)
-- 📧 **Email:** [m.abbaas22@gmail.com](mailto:m.abbaas22@gmail.com)
-- 📱 **Phone:** +20 101 026 2040
 - 🌍 **Portfolio:** [m-abbas-el-sharif.github.io](https://m-abbas-el-sharif.github.io/)
+- 📧 **Email:** [m.abbaas22@gmail.com](mailto:m.abbaas22@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abbas-el-sharif/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201010262040)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abbaas22@gmail.com)
 
 ---
 
-## 💬 Fun Fact
+## 🚀 I code with
 
-*"Data doesn't lie. The challenge is knowing how to listen to it, interpret it correctly, and communicate what it means for your business."*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-**Last updated:** June 2026 | Open to **Hybrid, Onsite, and Remote** opportunities
+Data doesn't lie. The challenge is knowing how to listen to it, interpret it correctly, and communicate what it means for your business.
