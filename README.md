@@ -1,163 +1,93 @@
 # Hi there 👋 I'm Mohamed Abbas El Sharif
 
-**Business-Oriented Technology Professional | Data Analytics | AI | SaaS**
+**Data Analyst | AI Specialist | Business Intelligence Developer**
 
-I help organizations solve business problems through practical data, AI, and technology solutions.
+Welcome to my GitHub! I transform raw data into actionable insights and build intelligent solutions that drive business decisions.
 
 ---
 
-## 💼 Who I Am
+## 💼 About Me
 
-**Computer Engineer** with an **M.Sc. in Data Science** (Cairo University) specializing in the intersection of **Business + Data + AI + Technology**.
+Computer Engineer with a **Master's in Data Science** (Cairo University, 2025–2027) specializing in:
+- **Data Analytics & Business Intelligence** — Power BI, SQL, Python
+- **Machine Learning & AI** — Predictive models, AI automation, Custom GPTs
+- **SaaS & Business Solutions** — Technical support, business analysis, product thinking
 
-My approach: **Understand business problems → Identify practical technology solutions → Drive impact**
+Currently **actively job-seeking** for roles in:
+- 📊 Data Analyst / BI Analyst
+- 📈 Business Analyst / Product Analyst
+- 🤖 AI Specialist / Solution Consultant
 
-### What I'm NOT:
-- ❌ Pure Data Scientist
-- ❌ Pure Machine Learning Engineer
-- ❌ Pure Software Engineer
+---
 
-### What I AM:
-- ✅ Business-problem solver using technology
-- ✅ Data-driven decision maker
-- ✅ SaaS & product-aware professional
-- ✅ AI adoption strategist
+## 🎯 Featured Projects
+
+### 🎓 Career Intelligence System
+A personal SaaS-style career dashboard combining application tracking, skill-gap analysis, target-company strategy, and AI-powered job scoring.
+- **Tech:** HTML, CSS, JavaScript, GitHub Pages, Python
+- **Features:** Dark-mode dashboard, skill visualization, application pipeline, executive reporting
+- **Live:** [m-abbas-el-sharif.github.io](https://m-abbas-el-sharif.github.io/)
+- **Repo:** [Career-Intelligence-System](https://github.com/M-Abbas-El-Sharif/Career-Intelligence-System)
+
+### 📉 Customer Churn Prediction
+Machine Learning project predicting telecom customer churn using Logistic Regression, Random Forest & XGBoost with an interactive Streamlit dashboard.
+- **Tech:** Python, scikit-learn, XGBoost, Streamlit, SHAP, pandas
+- **Dataset:** 7,043 telecom customers, 20+ features
+- **Models:** 3 classification algorithms with comparison metrics (accuracy, precision, recall, F1)
+- **Repo:** [Customer-Churn-Prediction](https://github.com/M-Abbas-El-Sharif/Customer-Churn-Prediction)
+
+### 📚 SQL Mastery
+Open-source GitHub project with practical SQL examples, structured chapters, and a complete SQL cheat sheet for Arabic speakers.
+- **Tech:** SQL, Documentation, Open Source
+- **Repo:** [sql-mastery](https://github.com/M-Abbas-El-Sharif/sql-mastery)
+
+---
+
+## 🛠️ Tech Stack
+
+**Data & Analytics:**
+- `SQL Server` | `Python (Pandas, NumPy, Scikit-Learn)` | `Power BI` | `Excel`
+
+**AI & Machine Learning:**
+- `TensorFlow` | `XGBoost` | `Custom GPTs` | `LLMs` | `Prompt Engineering`
+
+**Web & Visualization:**
+- `Streamlit` | `HTML/CSS/JavaScript` | `GitHub Pages` | `Plotly`
+
+**Business Tools:**
+- `Jira` | `Notion` | `Google Sheets` | `Figma`
+
+---
+
+## 📊 Current Focus
+
+- 🎓 **Master's Thesis:** Data Science research focused on analytics and AI applications
+- 🚀 **Career Growth:** Building strong analytical skills and business exposure
+- 💡 **Skill Development:** Strengthening SQL, Python, Power BI, Statistics, and Business Analysis
+- 🌍 **English:** B1 level (Reading & Listening: 7/10 | Writing & Speaking: 3/10)
 
 ---
 
 ## 🎯 Career Vision
 
-**Short-term:** Secure a role in Data/BI/Business/Product Analysis  
-**Medium-term:** Move into Product Management, Solution Consulting, or AI Specialist roles  
-**Long-term:** **Head of AI Transformation** | AI Consultant | Technology Advisor
+Become a **business-oriented technology leader** who helps organizations:
+- Adopt AI effectively
+- Optimize operations
+- Build data-driven products
+- Make smarter technology decisions
 
-### Career Path:
+**Target Path:**
 ```
-Real Estate → Customer Service → Business Operations → SaaS Tech Support
-                                                              ↓
-                                            Data + Business + AI Leadership
-                                                              ↓
-                                           Product / Consulting / AI Leadership
+Data/BI Analyst → Business Analyst → Product Analyst → Solution Consultant → AI Consultant
 ```
 
 ---
 
-## 📊 Professional Experience
+## 📈 GitHub Stats
 
-**Technical Support Engineer** | BeOn (B2B SaaS) — 5 months  
-- Supported 70+ B2B companies with technical solutions and business guidance
-- Analyzed client usage patterns and recommended process improvements
-- Built AI-assisted knowledge systems to improve efficiency
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Abbas-El-Sharif&show_icons=true&theme=dark&count_private=true)
 
-**Production Planning & Monitoring Analyst** | LAVA Egypt — 5 months  
-- Developed Power BI dashboards for KPI tracking and operational insights
-- Performed variance analysis and forecasting for production planning
-- Collaborated with Finance and Operations teams on data-driven decisions
-
-**Business Background** | 5+ years  
-- Real Estate Broker: Sales, negotiation, client discovery
-- Call Center Agent: Customer service, business operations
-
----
-
-## 🛠️ Core Competencies
-
-### Data & Analytics
-- SQL Server, Python (Pandas, NumPy, Scikit-Learn), Power BI, Excel
-- Business Intelligence, Data Visualization, Statistical Analysis
-
-### AI & Automation
-- Machine Learning (Logistic Regression, Random Forest, XGBoost)
-- LLMs, Custom GPTs, Prompt Engineering, AI Automation
-- Predictive Modeling, Data-Driven Decision Making
-
-### Business & Product
-- SaaS Operations, Business Analysis, Process Improvement
-- Stakeholder Communication, Product Thinking
-- Strategic Planning, KPI Monitoring
-
----
-
-## 🎓 Education
-
-**M.Sc. in Data Science** | Cairo University (2025–2027)  
-Focus: Data Analytics, Machine Learning, AI, Statistical Modeling
-
-**B.Sc. in Computer Engineering** | Modern Academy for Engineering (2019–2024)  
-Graduation Project: **Bone Cancer Detection AI System** (Grade: A)
-
-**Professional Certifications:**
-- Data Analysis & Visualization using Power BI (AUC, 2025)
-- Data Science Track (IBM & DEPI, 210 hours, 2024)
-- Data Analysis for Freelancers (NTI, 120 hours, 2026)
-
----
-
-## 💡 Current Focus
-
-Building **career capital** through:
-- 🏗️ Strong analytical capabilities (SQL, Python, Power BI, Statistics)
-- 📈 Business exposure and understanding
-- 🤖 AI knowledge and automation expertise
-- 🎯 Product & SaaS experience
-- 💬 Communication & presentation skills
-- 🎓 M.Sc. completion
-
----
-
-## 📌 Featured Work
-
-### 📊 Career Intelligence System
-Personal SaaS-style dashboard combining job analysis, skill tracking, and AI-powered scoring.  
-**Tech:** GitHub Pages, JavaScript, Python  
-**Live:** [m-abbas-el-sharif.github.io](https://m-abbas-el-sharif.github.io/)
-
-### 📉 Customer Churn Prediction
-ML project predicting telecom churn using 3 algorithms (Logistic Regression, Random Forest, XGBoost).  
-**Tech:** Python, scikit-learn, Streamlit  
-**Dataset:** 7,043 customers with interactive dashboard
-
-### 📚 SQL Mastery
-Open-source SQL guide with practical examples for Arabic-speaking professionals.  
-**Tech:** SQL documentation, practical examples
-
----
-
-## 🌟 Core Strengths
-
-1. **Business Problem Understanding** — Ability to translate business challenges into technology solutions
-2. **Data-Driven Decision Making** — Using analytics to support strategic choices
-3. **Cross-functional Communication** — Working effectively with business, operations, and technical teams
-4. **SaaS & Product Thinking** — Understanding customer needs and product metrics
-5. **Continuous Learning** — Mastering new tools and frameworks in AI/Data/Business domains
-
----
-
-## 🎯 What I'm Looking For
-
-**Ideal Role:**
-- Data Analyst, BI Analyst, Business Analyst, or Product Analyst position
-- **Not** a pure technical support or pure data science role
-- Opportunity to work on **real business problems** with real impact
-- Environment that values **strategic thinking** + **technical execution**
-- Remote-friendly or GCC-based opportunity (preferred)
-
-**Evaluation Criteria:**
-- Strategic Career Fit (35%)
-- Business Exposure (20%)
-- Data & AI Exposure (20%)
-- Salary Impact (15%)
-- Learning Opportunity (10%)
-
----
-
-## 📚 Languages & Skills
-
-**English:** B1 Level
-- Reading & Listening: 7/10
-- Writing & Speaking: 3/10 (active improvement)
-
-**Arabic:** Native
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abbas-El-Sharif&layout=compact&theme=dark)
 
 ---
 
@@ -165,14 +95,15 @@ Open-source SQL guide with practical examples for Arabic-speaking professionals.
 
 - 💼 **LinkedIn:** [m-abbas-el-sharif](https://www.linkedin.com/in/m-abbas-el-sharif/)
 - 📧 **Email:** [m.abbaas22@gmail.com](mailto:m.abbaas22@gmail.com)
-- 📱 **WhatsApp:** [+20 101 026 2040](https://wa.me/201010262040)
+- 📱 **Phone:** +20 101 026 2040
 - 🌍 **Portfolio:** [m-abbas-el-sharif.github.io](https://m-abbas-el-sharif.github.io/)
 
 ---
 
-## 💬 Philosophy
+## 💬 Fun Fact
 
-> *"Data doesn't lie. The challenge is knowing how to listen to it, interpret it correctly, and communicate what it means for your business."*
+*"Data doesn't lie. The challenge is knowing how to listen to it, interpret it correctly, and communicate what it means for your business."*
 
-**Status:** 🟢 Actively seeking roles | Open to **Hybrid, Onsite, and Remote** opportunities  
-**Last updated:** June 2026
+---
+
+**Last updated:** June 2026 | Open to **Hybrid, Onsite, and Remote** opportunities
